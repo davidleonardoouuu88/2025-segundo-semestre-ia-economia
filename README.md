@@ -8,20 +8,21 @@ Desarrollar habilidades prácticas para analizar, modelar y predecir fenómenos 
 
 ## 🚀 Lo que aprenderás
 
-- Programar en Python desde cero, incluyendo Programación Orientada a Objetos (POO).
-- Conectarte a fuentes de datos económicas reales (APIs, web scraping, bases estructuradas y no estructuradas).
+- Programar en Python desde cero.
+- Conectarte a fuentes de datos económicas reales (APIs, bases estructuradas y no estructuradas).
 - Analizar, transformar y visualizar datos económicos con herramientas como Numpy, Pandas, Matplotlib y Seaborn, entre otras.
 - Aplicar algoritmos de machine learning supervisado y no supervisado para detectar patrones, clasificar y predecir variables socioeconómicas.
 - Evaluar el desempeño de tus modelos y comunicar los resultados.
 - Desarrollar un proyecto aplicado de principio a fin con datos reales, donde pondrás a prueba todo lo aprendido.
+- Construir un portafolio profesional en GitHub.
 
 ## 📚 Estructura de contenidos
 
 1. Introducción y conceptos fundamentales
-2. Python y POO
+2. Programación en Python
 3. Análisis y visualización de datos en Python
-4. Machine Learning supervisado
-5. Machine Learning no supervisado
+4. Machine Learning no supervisado
+5. Machine Learning supervisado
 
 ## 🛠 Herramientas utilizadas
 
@@ -59,6 +60,7 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
  ┣ 📂 datasets                          # Conjuntos de datos utilizados en clase
  ┣ 📄 0_instalacion_librerias.ipynb     # Notebook sobre cómo instalar librerías
  ┣ 📄 2025_II_Programa_IA_economia.pdf  # Programa del curso
+ ┣ 📄 LICENSE.md                        # Licencia MIT
  ┣ 📄 README.md                         # Este archivo
  ┣ 📄 requirements.txt                  # Librerías necesarias para este repositorio
  ┗ 📄 version_python.txt                # Versión de Python utilizada
@@ -66,8 +68,17 @@ En equipos de 3 personas, los estudiantes desarrollarán un proyecto aplicado co
 
 ## 💡 Autor
 
-**Lina María Castro**
+[**Lina María Castro**](https://www.linkedin.com/in/lina-maria-castro)
 
-Economista y Magíster en Ciencia de Datos y Economía
+Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, Magíster en Ciencias Económicas y Economista de la Universidad Nacional de Colombia.
 
-📧 Contacto: [lmcastroco@gmail.com]
+💼 Asesora Senior de Analítica - Gerencia de Inteligencia Comercial - ProColombia.
+
+🎓 Docente de cátedra Facultad de Economía - Universidad Externado de Colombia. 
+
+📧 Email: [lmcastroco@gmail.com](mailto:lmcastroco@gmail.com)
+
+🔗 Linkedin: www.linkedin.com/in/lina-maria-castro
+
+## 📄 Licencia
+Este repositorio está bajo la Licencia MIT. Ver el archivo LICENSE.md para más detalles.
